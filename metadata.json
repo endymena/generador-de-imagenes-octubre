@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generator",
+  "description": "Generate stunning, high-quality images from detailed text prompts using the Gemini API with the Imagen 4 model. Refine your creative ideas and bring them to life with photorealistic results.",
+  "requestFramePermissions": []
+}
